@@ -32,7 +32,7 @@
             android:layout_marginRight="36dp"
             android:paddingBottom="16dp"
             android:gravity="center"
-            android:src="@drawable/validus_logo"
+            android:src="@drawable/aosep_logo"
             android:tint="?android:attr/colorAccent"
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
